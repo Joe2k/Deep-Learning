@@ -1,6 +1,6 @@
 # Deep Learning
 ## Assignment 1
-- Trained  12 **Deep Learnin** models using different parameters
+- Trained  12 **Deep Learning** models using different parameters
 - Trained  5 learning models using traditional approaches 
   1. SVM
   2. Logistic Regression
